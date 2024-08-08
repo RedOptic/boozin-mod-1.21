@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "boozinmod",
+	"version": "${version}",
+	"name": "Boozin' mod",
+	"description": "This mod brings booze and breweries to Minecraft!",
+	"authors": [
+		"RedOptic"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/RedOptic/boozin-mod-1.21"
+	},
+	"license": "MPL-2.0",
+	"icon": "assets/boozinmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.redoptic.boozinmod.BoozinMod"
+		],
+		"fabric-datagen": [
+			"net.redoptic.boozinmod.BoozinModDataGenerator"
+		],
+		"cient": [
+			"net.redoptic.boozinmod.BoozinModClient"
+		]
+	},
+	"mixins": [
+		"boozinmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
