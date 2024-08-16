@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "boozinmod:item/rum_unaged_glass_full"
+  }
+}

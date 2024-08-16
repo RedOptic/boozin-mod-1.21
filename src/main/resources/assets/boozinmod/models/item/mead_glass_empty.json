@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "boozinmod:item/mead_glass_empty"
+  }
+}

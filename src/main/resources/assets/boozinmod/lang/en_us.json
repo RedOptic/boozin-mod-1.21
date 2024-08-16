@@ -1,6 +1,27 @@
 {
   "item.boozinmod.yeast": "Yeast",
-  "item.boozinmod.molasses": "Molasses",
+  "item.boozinmod.mash": "Mash",
+  "item.boozinmod.wort": "Wort",
+  "item.boozinmod.beer_mug_empty": "Empty Beer Mug",
+  "item.boozinmod.beer_mug_full": "Mug of Beer",
+  "item.boozinmod.mead_glass_empty": "Empty Mead Glass",
+  "item.boozinmod.mead_glass_full": "Glass of Mead",
+  "item.boozinmod.moonshine_jar_empty": "Empty Jar",
+  "item.boozinmod.moonshine_jar_full": "Jar of Moonshine",
+  "item.boozinmod.rum_glass_empty": "Empty Rum Glass",
+  "item.boozinmod.rum_glass_full": "Glass of Rum",
+  "item.boozinmod.rum_glass_unaged_full": "Glass of White Rum",
+  "item.boozinmod.whiskey_glass_empty": "Empty Whiskey Glass",
+  "item.boozinmod.whiskey_glass_full": "Glass of Whiskey",
+  "item.boozinmod.wine_glass_empty": "Empty Wine Glass",
+  "item.boozinmod.wine_glass_full": "Glass of Sweet Berry Wine",
+  "item.boozinmod.undistilled_rum": "Bucket of Undistilled Rum",
+  "item.boozinmod.undistilled_whiskey": "Bucket of Undistilled Whiskey",
+
+
+
+
+
 
   "itemgroup.boozin": "Boozin'"
 }
