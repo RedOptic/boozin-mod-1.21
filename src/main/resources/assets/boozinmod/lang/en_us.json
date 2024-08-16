@@ -1,3 +1,6 @@
 {
-  "item.boozinmod.yeast": "Yeast"
+  "item.boozinmod.yeast": "Yeast",
+  "item.boozinmod.molasses": "Molasses",
+
+  "itemgroup.boozin": "Boozin'"
 }

@@ -10,6 +10,7 @@ import net.redoptic.boozinmod.BoozinMod;
 
 public class ModItems {
     public static final Item YEAST = registerItem("yeast", new Item(new Item.Settings()));
+    public static final Item MOLASSES = registerItem("molasses", new Item(new Item.Settings()));
 
     private static Item registerItem(String name, Item item){
         return Registry.register(Registries.ITEM, Identifier.of(BoozinMod.MOD_ID, name), item);
@@ -20,6 +21,7 @@ public class ModItems {
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(YEAST);
+            entries.add(MOLASSES);
         });
     }
 }
