@@ -19,9 +19,10 @@
   "item.boozinmod.undistilled_whiskey": "Bucket of Undistilled Whiskey",
 
 
+  "itemgroup.boozin": "Boozin'",
 
-
-
-
-  "itemgroup.boozin": "Boozin'"
+  "block.boozinmod.still": "Still",
+  "block.boozinmod.ageing_barrel": "Aging Barrel",
+  "block.boozinmod.carboy": "Carboy",
+  "block.boozinmod.fermentation_barrel": "fermentation_barrel"
 }

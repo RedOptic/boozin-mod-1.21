@@ -15,7 +15,7 @@ public class ModItemGroups {
     private static final Text BOOZIN_TITLE = Text.translatable("itemgroup.boozin");
     public static final ItemGroup BOOZIN_GROUP = register("boozin_group", FabricItemGroup.builder()
             .displayName(BOOZIN_TITLE)
-            .icon(ModItems.YEAST::getDefaultStack)
+            .icon(ModItems.BEER_MUG_FULL::getDefaultStack)
             .entries((displayContext, entries) -> Registries.ITEM.getIds()
                     .stream()
                     .filter(key -> key.getNamespace() .equals(BoozinMod.MOD_ID))

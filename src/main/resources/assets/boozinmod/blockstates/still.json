@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "boozinmod:block/still"
+    },
+    "facing=south": {
+      "model": "boozinmod:block/still",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "boozinmod:block/still",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "boozinmod:block/still",
+      "y": 90
+    }
+  }
+}

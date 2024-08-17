@@ -3,6 +3,7 @@ package net.redoptic.boozinmod;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
+import net.redoptic.boozinmod.block.ModBlocks;
 import net.redoptic.boozinmod.item.ModItemGroups;
 import net.redoptic.boozinmod.item.ModItems;
 import org.jetbrains.annotations.Contract;
@@ -19,6 +20,7 @@ public class BoozinMod implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 		ModItemGroups.load();
 	}
 
