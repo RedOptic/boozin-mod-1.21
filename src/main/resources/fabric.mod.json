@@ -21,7 +21,7 @@
 		"fabric-datagen": [
 			"net.redoptic.boozinmod.BoozinModDataGenerator"
 		],
-		"cient": [
+		"client": [
 			"net.redoptic.boozinmod.BoozinModClient"
 		]
 	},
