@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "ingredients",
+  "ingredient": {
+    "item": "minecraft:glass_bottle"
+  },
+  "result": {
+    "id": "boozinmod:whiskey_glass_empty",
+    "count": 1
+  }
+}

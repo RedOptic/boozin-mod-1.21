@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "ingredient",
+  "ingredients": [
+    {
+      "item": "boozinmod:wort"
+    },
+    {
+      "item": "boozinmod:yeast"
+    }
+  ],
+  "result": {
+    "id": "boozinmod:unfermented_undistilled_whiskey",
+    "count": 1
+  }
+}

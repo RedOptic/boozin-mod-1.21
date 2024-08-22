@@ -18,6 +18,11 @@
   "item.boozinmod.wine_glass_full": "Glass of Sweet Berry Wine",
   "item.boozinmod.undistilled_rum": "Bucket of Undistilled Rum",
   "item.boozinmod.undistilled_whiskey": "Bucket of Undistilled Whiskey",
+  "item.boozinmod.sugar_cane_juice": "Sugar Cane Juice",
+  "item.boozinmod.unfermented_undistilled_rum": "Bucket of Unprocessed Rum",
+  "item.boozinmod.unfermented_undistilled_whiskey": "Bucket of Unprocessed Whiskey",
+  "item.boozinmod.mead_must": "Bucket of Mead Must",
+  "item.boozinmod.wine_must": "Bucket of Wine Must",
 
 
   "itemgroup.boozin": "Boozin'",

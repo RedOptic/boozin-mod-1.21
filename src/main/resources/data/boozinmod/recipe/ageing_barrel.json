@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "crafting",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "minecraft:barrel"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#B#",
+    "i#i"
+  ],
+  "result": {
+    "id": "boozinmod:ageing_barrel",
+    "count": 1
+  }
+}

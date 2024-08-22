@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "ingredient",
+  "ingredient": {
+    "item": "boozinmod:mash"
+  },
+  "result": {
+    "id": "boozinmod:wort"
+  },
+  "experience": 0.5,
+  "cookingtime": 800
+}

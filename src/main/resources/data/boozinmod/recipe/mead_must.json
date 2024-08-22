@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "ingredient",
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "boozinmod:yeast"
+    }
+  ],
+  "result": {
+    "id": "boozinmod:mead_must",
+    "count": 1
+  }
+}

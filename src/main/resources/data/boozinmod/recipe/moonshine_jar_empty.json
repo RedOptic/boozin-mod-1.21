@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "ingredients",
+  "ingredient": {
+    "item": "minecraft:glass_bottle"
+  },
+  "result": {
+    "id": "boozinmod:moonshine_jar_empty",
+    "count": 1
+  }
+}

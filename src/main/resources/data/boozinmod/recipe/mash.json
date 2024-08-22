@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "ingredient",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "boozinmod:yeast"
+    }
+  ],
+  "result": {
+    "id": "boozinmod:mash",
+    "count": 1
+  }
+}

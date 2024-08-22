@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "crafting",
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#G#",
+    "###"
+  ],
+  "result": {
+    "id": "boozinmod:carboy",
+    "count": 1
+  }
+}

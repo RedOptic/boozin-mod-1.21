@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "boozinmod:mead_must"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:match_tool",
+          "predicate": {
+            "items": [
+              "minecraft:water_bucket"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
